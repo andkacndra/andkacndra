@@ -1,6 +1,6 @@
-## Hi I'm Andika👋
-lorem
-## lorem
+## Hey! Nice to see you👋
+Welcome to my page!
+I'm Andika, Fullstack Developer form Indonesia
 
 <!--
 **andkacndra/andkacndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

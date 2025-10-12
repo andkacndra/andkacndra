@@ -1,6 +1,6 @@
 ## Hey! Nice to see you👋
 Welcome to my page!
-I'm Andika, Fullstack Developer form Indonesia
+I'm Andika, Fullstack Developer & UI/UX Design
 
 <!--
 **andkacndra/andkacndra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

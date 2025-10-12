@@ -1,5 +1,6 @@
-# Hey! Nice to see you 💫
-I'm a Fullstack Developer & UI/UX Design
+# 💫Hey! Nice to see you
+Welcome to my page!
+I'm a Andika, Fullstack Developer form Indonesia
 
 
 ## 🌐 Socials:

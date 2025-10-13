@@ -1,6 +1,6 @@
 # 💫Hey! Nice to see you
 Welcome to my page!<br/>
-I'm a Andika, Fullstack Developer from :id: Indonesia
+I'm a Andika, Fullstack Developer from :{fladg-id}: Indonesia
 
 
 ## 🌐 Socials:

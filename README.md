@@ -1,6 +1,9 @@
 # 💫Hey! Nice to see you
 Welcome to my page!<br/>
 I'm a Andika, Fullstack Developer from \U0001F1EE\U0001F1E9 Indonesia
+# Halo, saya Andika! 
+![Indonesia Flag](https://flagcdn.com/w20/id.png)
+
 
 
 

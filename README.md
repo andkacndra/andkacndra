@@ -1,7 +1,6 @@
 # 💫Hey! Nice to see you
 Welcome to my page!<br/>
-I'm a Andika, Fullstack Developer from Indonesia
-# Halo, saya Andika! 🇮🇩
+I'm a Andika, Fullstack Developer from \U0001F1EE\U0001F1E9 Indonesia
 
 
 

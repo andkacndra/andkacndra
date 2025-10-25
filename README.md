@@ -1,4 +1,4 @@
-# 💫Hey! Nice to see you make you better at coding
+# 💫Hey! Nice to see you
 Welcome to my page!<br/>
 I'm a Andika, Fullstack Developer from ![Indonesia Flag](https://flagcdn.com/w20/id.png) Indonesia
 

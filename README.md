@@ -14,5 +14,5 @@ I'm a Andika, Fullstack Developer from ![Indonesia Flag](https://flagcdn.com/w20
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andkacndra&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1)
 
 
-
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
